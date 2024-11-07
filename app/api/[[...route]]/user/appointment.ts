@@ -1,6 +1,5 @@
 import { Hono } from "hono";
-import prisma from "../prisma";
-import { randomUUID } from "crypto";
+// import prisma from "../prisma";
 
 const appointment = new Hono();
 
